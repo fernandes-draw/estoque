@@ -14,4 +14,4 @@ class TimeStampedModel(models.Model):
     )
 
     class Meta:
-        abstact = True
+        abstract = True
