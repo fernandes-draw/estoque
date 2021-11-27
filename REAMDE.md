@@ -29,5 +29,7 @@ python manage.py runserver -->
 [bootstrap_starter-template]  (https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template)
 [start.html] (https://github.com/JTruax/bootstrap-starter-template/blob/master/template/start.html)
 [django-widget-tweaks] (https://github.com/jazzband/django-widget-tweaks)
+[Class-Based-View-ccbv.co.uk] (https://ccbv.co.uk/)
 
-
+### Vídeos extras
+[FVBxCBV] (https://www.youtube.com/watch?v=2qZcPb8ZWQA)
