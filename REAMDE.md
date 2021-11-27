@@ -22,6 +22,11 @@ python manage.py createsuperuser
 python manage.py runserver -->
 
 ## Links
-[python-decouple] https://github.com/henriquebastos/python-decouple
-[package-of-the-week-python-decouple] https://simpleisbetterthancomplex.com/2015/11/26/package-of-the-week-python-decouple.html
-[django-basic] https://github.com/rg3915/tutoriais/tree/master/django-basic
+[python-decouple] (https://github.com/henriquebastos/python-decouple)
+[package-of-the-week-python-decouple] (https://simpleisbetterthancomplex.com/2015/11/26/package-of-the-week-python-decouple.html)
+[django-basic] (https://github.com/rg3915/tutoriais/tree/master/django-basic)
+[bootstrap_starter-template]  (https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template)
+[start.html] (https://github.com/JTruax/bootstrap-starter-template/blob/master/template/start.html)
+
+
+
