@@ -30,6 +30,9 @@ python manage.py runserver -->
 [start.html] (https://github.com/JTruax/bootstrap-starter-template/blob/master/template/start.html)
 [django-widget-tweaks] (https://github.com/jazzband/django-widget-tweaks)
 [Class-Based-View-ccbv.co.uk] (https://ccbv.co.uk/)
+[form-inline] (http://felipefrizzo.github.io/post/form-inline/)
+[form-inline-cbv] (http://felipefrizzo.github.io/post/form-inline-cbv/)
+[django-bootstrap-form] (https://django-bootstrap-form.readthedocs.io/en/latest/)
 
 ### Vídeos extras
 [FVBxCBV] (https://www.youtube.com/watch?v=2qZcPb8ZWQA)

@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     # Third apps
     "widget_tweaks",
+    "bootstrapform",
     # My apps
     "projeto.core",
     "projeto.produto",
