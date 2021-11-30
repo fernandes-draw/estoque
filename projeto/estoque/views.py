@@ -85,6 +85,7 @@ def estoque_saida_detail(request, pk):
 
 
 def estoque_saida_add(request):
+    # Corrigindo commit 25
     template_name = "estoque_saida_form.html"
     estoque_form = Estoque()
     item_estoque_form = inlineformset_factory(
